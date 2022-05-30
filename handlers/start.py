@@ -34,14 +34,14 @@ async def start_(client: Client, message: Message):
                         "ᴏᴡɴᴇʀ", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "ꜰɪʀꜱᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
                     )
                 ],[
                     InlineKeyboardButton(
                         "ɪɴʟɪɴᴇ", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/HNYROBO"
+                        "ꜱᴇᴄᴏɴᴅ ɢʀᴏᴜᴘ", url="https://t.me/Dangerousfighters"
                     )]
             ]
        ),
